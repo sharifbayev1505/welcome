@@ -42,3 +42,6 @@ span{
     border: 2px solid whitesmoke;
     text-align: center;
 }
+span{
+    text-shadow:2px 3px 3px pink,1px 2px 3px red,2px 3px 4px rgb(214, 100, 100);
+}
